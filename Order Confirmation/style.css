@@ -1,0 +1,48 @@
+ .button {
+     background-color: green;
+     color: white;
+     border: white;
+     cursor: pointer;
+     border-radius: 5px;
+ }
+
+ .box {
+     width: 500px;
+     height: 135px;
+     border: 1px solid #000;
+     border-radius: 10px;
+ }
+
+ .brown {
+     color: brown;
+     font-size: 35px;
+ }
+
+ .container {
+     font-size: 15px;
+ }
+
+ #information {
+     background-color: orange;
+     color: white;
+     border: white;
+     cursor: pointer;
+     border-radius: 5px;
+ }
+
+ .information {
+     width: 650px;
+     height: 135px;
+     border: 1px solid #000;
+     border-radius: 10px;
+     background-color: antiquewhite;
+ }
+
+ .blue {
+     color: blue;
+ }
+
+ .right {
+     text-align: right;
+
+ }

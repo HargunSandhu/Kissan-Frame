@@ -1,0 +1,35 @@
+.yellow{
+    background-color: yellow;
+    color: red;
+    border: 3px;
+    display: block;
+    width: 25%;
+    border-color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.yes, .no{
+    background-color: darkgrey;
+    color: black;
+    border: 3px;
+    border-color: black;
+    display: block;
+    width: 5%;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:visited{
+ text-decoration: none;
+}
+
+a:hover{
+ text-decoration: none;    
+}
